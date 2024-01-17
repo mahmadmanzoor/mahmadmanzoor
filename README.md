@@ -81,12 +81,13 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zain-sajid&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmadmanzoor&theme=vue-dark&hide_border=true" alt="mahmadmanzoor's Streak">
+</div>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=zain-sajid&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=mahmadmanzoor&&style=flat-square" align="center"  />
 </div>
 
 <br />
