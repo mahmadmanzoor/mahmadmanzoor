@@ -81,7 +81,7 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmadmanzoor&theme=vue-dark&hide_border=true" alt="mahmadmanzoor's Streak">
+<div align="center"><img src="https://streak-stats.demolab.com?user=mahmadmanzoor&theme=vue-dark&hide_border=true" alt="mahmadmanzoor's Streak"/>
 </div>
 
 <br/>
