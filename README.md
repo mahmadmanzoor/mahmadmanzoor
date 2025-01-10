@@ -85,8 +85,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahmadmanzoor&theme=vue-dark&hide_border=true" alt="mahmadmanzoor's Streak" /></a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahmadmanzoor&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
 <br/>
 
 <div align="center">
