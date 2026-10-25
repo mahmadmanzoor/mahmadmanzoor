@@ -6,18 +6,19 @@
 
 # Hey, I'm Muhammad Ahmad 👋
 
-**Software Engineer II at [RipeSeed](https://ripeseed.io) · Lahore, Pakistan**
+**AI Product Engineer at [RipeSeed](https://ripeseed.io) · Lahore, Pakistan**
 
-I build products end to end: Next.js front ends, Django and Node back ends, AI document pipelines, and the cloud infrastructure behind them.
+I build LLM features, agents and evals that hold up in production, plus the full-stack product and infrastructure around them: Next.js and React front ends, Django and Node back ends, MLOps and DevOps on AWS.
 
 ### 🕹️ [Play my portfolio → mahmadmanzoor.com](https://mahmadmanzoor.com)
 
-<sub>Walk around my dev room, pick a project from the arcade cabinet, or play Bug Blaster. In a hurry? Try <a href="https://mahmadmanzoor.com/classic">Classic view</a>.</sub>
+<sub>Walk around my dev room, pick a project from the arcade cabinet, or play Bug Blaster. In a hurry? Try <a href="https://mahmadmanzoor.com/classic">Classic view</a>. I write about building with LLMs on <a href="https://mahmadmanzoor.com/blog">my blog</a>.</sub>
 
 <br/>
 
 <a href="https://mahmadmanzoor.com"><img src="https://img.shields.io/badge/portfolio-mahmadmanzoor.com-C6FF5E?style=for-the-badge&labelColor=121212" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/muhammad-ahmad2246/"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mahmadmanzoor.com/blog"><img src="https://img.shields.io/badge/blog-notes%20on%20LLMs-121212?style=for-the-badge&labelColor=121212&color=477009" alt="Blog" /></a>
+<a href="https://www.linkedin.com/in/mahmadmanzoor2/"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ahmaddogar2246@gmail.com"><img src="https://img.shields.io/badge/email-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://twitter.com/2000tillnow"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.instagram.com/ahmadwydd"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -43,7 +44,7 @@ I build products end to end: Next.js front ends, Django and Node back ends, AI d
 | **ClaimLayer** | Field-first roof evidence and insurance supplement recovery, with an offline mobile capture app plus a web console | Next.js 16, React Native / Expo, tRPC | [live](https://claimlayer-web.vercel.app) |
 | **Yardline** | Jobsite delivery handoff for roofing contractors: no-login crew receiving, evidence, shortages and credits | Next.js, TypeScript, PostgreSQL | [live](https://web-indol-pi-25.vercel.app) |
 | **CredibleAI** | AI social media manager for trades: local signals become ready-to-approve posts *(client work @ RipeSeed)* | Next.js 16, PostgreSQL, AI | [live](https://credibley.com) |
-| **Pro Portal · Brava Roof** | AI-enabled B2B roofing platform: quotes, takeoffs, proposals, orders *(client work @ RipeSeed)* | Next.js, Django REST, AWS, OpenAI / Gemini | private |
+| **Pro Portal · Brava Roof Tile** | AI-enabled B2B roofing platform: quotes, takeoffs, proposals, orders *(client work @ RipeSeed)* | Next.js, Django REST, AWS, OpenAI / Gemini | private |
 | **Kote Automation System** | Offline armoury and asset custody system, in use by a unit of the Pakistan Army | Electron, React, SQLite | private |
 | **[Signal Tank](https://github.com/mahmadmanzoor/signal-tank)** | Voice-generation lab for testing TTS before you ship it | TypeScript, Web Audio | [live](https://www.signaltank.site) |
 | **[PulsePanda](https://github.com/mahmadmanzoor/pulsepanda)** | Real-time event monitoring SaaS with Discord alerts | Next.js, Neon Postgres, Clerk, Stripe | [live](https://pulsepanda.vercel.app) |
